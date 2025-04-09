@@ -1,8 +1,8 @@
 ---
 title: Post with Header Image
 tags: TeXt
+comment: true
 article_header:
-  comment: true
   type: cover
   image:
     src: /screenshot.jpg
