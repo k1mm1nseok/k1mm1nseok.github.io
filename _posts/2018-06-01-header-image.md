@@ -2,6 +2,7 @@
 title: Post with Header Image
 tags: TeXt
 article_header:
+  comment: true
   type: cover
   image:
     src: /screenshot.jpg
