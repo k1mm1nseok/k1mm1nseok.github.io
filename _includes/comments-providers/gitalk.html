@@ -31,6 +31,7 @@
 				owner: '{{ site.comments.gitalk.owner }}',
 				admin: [{{ _admin }}],
 				id: '{{ page.key }}'
+				proxy: '' // 👈 프록시 제거로 403 회피
 			});
 			gitalk.render('js-gitalk-container');
 		});
